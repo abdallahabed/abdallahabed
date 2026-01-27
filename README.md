@@ -30,6 +30,7 @@ I am a passionate software developer focused on building scalable, data-driven a
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,bootstrap" />
 
 **Databases & Tools**
+
 <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,postman,figma,vscode,idea,vercel,render" />
 
 ---
