@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Abdallah%20Aabed&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 # 👋 Salam, I'm Abdallah Aabed
-### 💻 Software Engineer Intern | ☕ Java Backend Developer | 🎓 CS Student
+### 💻 Software Engineer Intern | ☕ Java Backend Developer | 🎓 CS Graduate
 I am a passionate software developer focused on building scalable, data-driven applications. With a strong foundation in Java backend systems and full-stack web development, I bridge the gap between academic theory and production-ready code.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-aabed) 
@@ -35,7 +35,7 @@ I am a passionate software developer focused on building scalable, data-driven a
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- <h2 align="center">🚀 Featured Projects</h2>
 
 <table border="0">
   <tr>
@@ -64,7 +64,56 @@ I am a passionate software developer focused on building scalable, data-driven a
   </tr>
 </table>
 
-<br>
+<br> -->
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### LifeSync
+AI-powered health & finance assistant.
+
+**Tech:** JavaScript · Node.js · Express · React · MySQL · Docker
+
+<a href="https://github.com/AbdallahAbed/LifeSync">View Project →</a>
+
+</td>
+
+<td width="50%">
+
+### Travel Route Optimization
+Java application implementing route optimization algorithms with JavaFX visualization.
+
+**Tech:** Java · JavaFX · Algorithms
+
+<a href="https://github.com/AbdallahAbed/TravelRouteOptimization">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### WashMate
+Full-stack application for managing laundry-related services.
+
+<a href="https://github.com/AbdallahAbed/WashMate">View Project →</a>
+
+</td>
+
+<td width="50%">
+
+### Inventory Management System
+Java-based inventory management application with CRUD operations and persistence.
+
+<a href="https://github.com/AbdallahAbed/uni-java-inventory-phase2">View Project →</a>
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">🎓 Udacity Nanodegrees</h2>
 
@@ -90,17 +139,6 @@ I am a passionate software developer focused on building scalable, data-driven a
   <img src="https://img.shields.io/badge/Data_Manipulation-Certificate-05192D?style=for-the-badge&logo=datacamp&logoColor=white&labelColor=000000" height="40px" />
 </a>
 
----
-
-### 📊 Performance Metrics
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdallahAbed&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahAbed&theme=dark&hide_border=false&layout=compact" height="170px" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahAbed&theme=tokyo-night" width="100%" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AbdallahAbed&theme=dark&hide_border=false" width="100%" />
-
----
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
